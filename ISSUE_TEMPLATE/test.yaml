@@ -1,0 +1,10 @@
+name: Test
+about: Testing 1.2.3
+title: ''
+labels: ''
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Hello World**
