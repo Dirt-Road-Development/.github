@@ -8,3 +8,5 @@ body:
     attributes:
       value: |
         **Hello World**
+  - type: input
+    id: version
