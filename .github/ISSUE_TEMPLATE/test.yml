@@ -1,5 +1,5 @@
 name: Test
-about: Testing 1.2.3
+description: Testing 1.2.3
 body:
   - type: markdown
     attributes:
