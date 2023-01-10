@@ -7,3 +7,6 @@ body:
         **Hello World**
   - type: input
     id: version
+    attributes:
+      label: Some Label
+      description: Hello
