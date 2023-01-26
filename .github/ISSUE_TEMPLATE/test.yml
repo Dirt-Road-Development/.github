@@ -1,12 +1,8 @@
-name: Test
-description: Testing 1.2.3
+name: Marketing Request
+description: Do you have a request for a marketing effort?
 body:
-  - type: markdown
+  - type: textarea
+    id: request
     attributes:
-      value: |
-        **Hello World**
-  - type: input
-    id: version
-    attributes:
-      label: Some Label
-      description: Hello
+      label: What is your request?
+      description: Request goes here...
