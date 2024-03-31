@@ -17,4 +17,4 @@
 - The new <a href="https://skale.space">SKALE Network</a> Documentation
 - The SKALE Network <a href="https://sfuelstation.com">sFUEL Station</a>
 
-<p>Contact on <a href="https://discord.dirtroad.dev">Discord</a>for support or visit the <a href="https://dirtroad.dev">website</a></p>
+<p>Contact on <a href="https://discord.dirtroad.dev">Discord</a> for support or visit the <a href="https://dirtroad.dev">website</a></p>
