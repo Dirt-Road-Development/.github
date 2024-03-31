@@ -1,5 +1,5 @@
 <h1 align="center">Dirt Road Development</h1>
-<h3 align="center">A R&D consultant and strategist offering services accross Web2 and Web3 stacks.</h3>
+<h3 align="center">A R&D group offering services across both Web2 and Web3.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dirt-Road-Development" alt="Dirt-Road-Development" /> </p>
 
